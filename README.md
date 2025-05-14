@@ -75,4 +75,4 @@ Caso futuramente o projeto cresça e se torne mais complexo, podemos considerar 
 
 ## Uso de IA no desenvolvimento
 
-A IA foi utilizada para gerar o código de configuração do CORS no backend e para gerar a seção de "Como Rodar o Projeto" no README. Além disso, a IA foi utilizada para gerar o código de exemplo para o frontend, o restante eu escrevi manualmente com base em documentações que encontrei na internet.
+A IA foi utilizada para gerar o código de configuração do CORS no backend e para gerar a seção de "Como Rodar o Projeto" no README. Além disso, a IA foi utilizada para gerar o código de exemplo para o frontend, o restante eu escrevi manualmente com base em documentações que encontrei na internet. Mesmo escrevendo manualmente, sempre peço ao Copilot para me dar uma solução mais bonita e apresentável de determinados trechos de código.
